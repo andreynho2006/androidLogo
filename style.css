@@ -48,3 +48,11 @@ div div {background: #A4CA39; position: relative;}
 	-webkit-transform: rotate(30deg);
 	-moz-transform: rotate(30deg);
 }
+.body{
+	width: 220px; height: 184px;
+	top: 40px;
+
+	border-radius: 0 0 25px 25px;
+	-webkit-border-radius: 0 0 25px 25px;
+	-moz-border-radius: 0 0 25px 25px;
+}

@@ -56,3 +56,23 @@ div div {background: #A4CA39; position: relative;}
 	-webkit-border-radius: 0 0 25px 25px;
 	-moz-border-radius: 0 0 25px 25px;
 }
+.l_arm, .r_arm, .l_leg, .r_leg {
+	width: 50px; position: absolute;
+	-webkit-transition: all 0.1s ease-in;
+}
+.l_arm, .r_arm {
+	height: 150px;
+	border-radius: 25px;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+}
+.l_leg, .r_leg {
+	height: 80px; top: 182px;
+	border-radius: 0 0 25px 25px;
+	-moz-border-radius: 0 0 25px 25px;
+	-webkit-border-radius: 0 0 25px 25px;
+}
+.l_arm {left: -58px;}
+.r_arm {right: -58px;}
+.l_leg {left: 45px;}
+.r_leg {right: 45px;}

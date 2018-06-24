@@ -1,3 +1,3 @@
 "# Animated Android Logo"
 
-[See Online](https://github.com/andreynho2006/androidLogo)
+[See Online](https://andreynho2006.github.io/androidLogo/.)
